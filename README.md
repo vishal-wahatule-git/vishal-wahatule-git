@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
+---
+
+### 📊 GitHub Stats & Activity  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishal-wahatule-git&show_icons=true&theme=tokyonight&count_private=true&hide=issues"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-wahatule-git&theme=tokyonight"/>
@@ -34,13 +38,13 @@
 <div align="center">
 
 <a href="https://github.com/vishal-wahatule-git/quiz-app" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Quiz+App+Microservices" alt="Quiz App" width="300" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/vishal-wahatule-git/quiz-app/main/screenshots/quiz-home.png" alt="Quiz App" width="300" style="margin:10px"/>
 </a>
 <a href="https://github.com/vishal-wahatule-git/shopping-app" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Online+Shopping+App" alt="Shopping App" width="300" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/vishal-wahatule-git/shopping-app/main/screenshots/homepage.png" alt="Shopping App" width="300" style="margin:10px"/>
 </a>
 <a href="https://github.com/vishal-wahatule-git/blog-system" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Blog+Management+System" alt="Blog System" width="300" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/vishal-wahatule-git/blog-system/main/screenshots/blog-home.png" alt="Blog System" width="300" style="margin:10px"/>
 </a>
 
 </div>
@@ -87,4 +91,4 @@
   <a href="mailto:vishal.vahatule02@gmail.com"><img src="https://img.shields.io/badge/Email-vishal.vahatule02@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Vishal-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe&logoColor=white"/></a>
-</p>
+</p>￼Enter
