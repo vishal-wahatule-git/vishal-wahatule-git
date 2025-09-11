@@ -38,7 +38,7 @@
 <div align="center">
 
 <a href="https://github.com/vishal-wahatule-git/quiz-app" target="_blank">
-  <img src="https://raw.githubusercontent.com/vishal-wahatule-git/quiz-app/main/screenshots/quiz-home.png" alt="Quiz App" width="300" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/vishal-wahatule-git/quiz-app/main/screenshots/quiz-home.png" alt="Quiz App" width="300" style="margin:10px; border-radius:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   <br>
   <b>Quiz App Microservices</b>  
   <br>
@@ -46,7 +46,7 @@
 </a>
 
 <a href="https://github.com/vishal-wahatule-git/shopping-app" target="_blank">
-  <img src="https://raw.githubusercontent.com/vishal-wahatule-git/shopping-app/main/screenshots/homepage.png" alt="Shopping App" width="300" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/vishal-wahatule-git/shopping-app/main/screenshots/homepage.png" alt="Shopping App" width="300" style="margin:10px; border-radius:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   <br>
   <b>Online Shopping App</b>  
   <br>
@@ -54,7 +54,7 @@
 </a>
 
 <a href="https://github.com/vishal-wahatule-git/blog-system" target="_blank">
-  <img src="https://raw.githubusercontent.com/vishal-wahatule-git/blog-system/main/screenshots/blog-home.png" alt="Blog System" width="300" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/vishal-wahatule-git/blog-system/main/screenshots/blog-home.png" alt="Blog System" width="300" style="margin:10px; border-radius:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   <br>
   <b>Blog Management System</b>  
   <br>
