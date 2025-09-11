@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vishal Wahatule  
+here# Hi there 👋, I'm Vishal Wahatule  
 
 🚀 **Backend Java Developer** | 💡 Passionate about building REST APIs & scalable systems | ☁️ Exploring Cloud & DevOps  
 
@@ -38,27 +38,27 @@
 <div align="center">
 
 <a href="https://github.com/vishal-wahatule-git/quiz-app" target="_blank">
-  <img src="YOUR_QUIZ_APP_SCREENSHOT_URL" alt="Quiz App" width="300" style="margin:10px; border-radius:10px;"/>
+  <img src="https://via.placeholder.com/300x150.png?text=Quiz+App" alt="Quiz App" width="300" style="margin:10px; border-radius:10px;"/>
   <br>
   <b>Quiz App Microservices</b>  
   <br>
-  <a href="https://github.com/vishal-wahatule-git/quiz-app" target="_blank">View Repo</a> | <a href="YOUR_QUIZ_APP_LIVE_DEMO_LINK" target="_blank">Live Demo</a>
+  <a href="https://github.com/vishal-wahatule-git/quiz-app" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
 </a>
 
 <a href="https://github.com/vishal-wahatule-git/shopping-app" target="_blank">
-  <img src="YOUR_SHOPPING_APP_SCREENSHOT_URL" alt="Shopping App" width="300" style="margin:10px; border-radius:10px;"/>
+  <img src="https://via.placeholder.com/300x150.png?text=Shopping+App" alt="Shopping App" width="300" style="margin:10px; border-radius:10px;"/>
   <br>
   <b>Online Shopping App</b>  
   <br>
-  <a href="https://github.com/vishal-wahatule-git/shopping-app" target="_blank">View Repo</a> | <a href="YOUR_SHOPPING_APP_LIVE_DEMO_LINK" target="_blank">Live Demo</a>
+  <a href="https://github.com/vishal-wahatule-git/shopping-app" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
 </a>
 
 <a href="https://github.com/vishal-wahatule-git/blog-system" target="_blank">
-  <img src="YOUR_BLOG_SYSTEM_SCREENSHOT_URL" alt="Blog System" width="300" style="margin:10px; border-radius:10px;"/>
+  <img src="https://via.placeholder.com/300x150.png?text=Blog+System" alt="Blog System" width="300" style="margin:10px; border-radius:10px;"/>
   <br>
   <b>Blog Management System</b>  
   <br>
-  <a href="https://github.com/vishal-wahatule-git/blog-system" target="_blank">View Repo</a> | <a href="YOUR_BLOG_SYSTEM_LIVE_DEMO_LINK" target="_blank">Live Demo</a>
+  <a href="https://github.com/vishal-wahatule-git/blog-system" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
 </a>
 
 </div>
