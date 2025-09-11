@@ -38,27 +38,27 @@
 <div align="center">
 
 <a href="https://github.com/vishal-wahatule-git/quiz-app" target="_blank">
-  <img src="https://raw.githubusercontent.com/vishal-wahatule-git/quiz-app/main/screenshots/quiz-home.png" alt="Quiz App" width="300" style="margin:10px; border-radius:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="YOUR_QUIZ_APP_SCREENSHOT_URL" alt="Quiz App" width="300" style="margin:10px; border-radius:10px;"/>
   <br>
   <b>Quiz App Microservices</b>  
   <br>
-  <a href="https://github.com/vishal-wahatule-git/quiz-app" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
+  <a href="https://github.com/vishal-wahatule-git/quiz-app" target="_blank">View Repo</a> | <a href="YOUR_QUIZ_APP_LIVE_DEMO_LINK" target="_blank">Live Demo</a>
 </a>
 
 <a href="https://github.com/vishal-wahatule-git/shopping-app" target="_blank">
-  <img src="https://raw.githubusercontent.com/vishal-wahatule-git/shopping-app/main/screenshots/homepage.png" alt="Shopping App" width="300" style="margin:10px; border-radius:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="YOUR_SHOPPING_APP_SCREENSHOT_URL" alt="Shopping App" width="300" style="margin:10px; border-radius:10px;"/>
   <br>
   <b>Online Shopping App</b>  
   <br>
-  <a href="https://github.com/vishal-wahatule-git/shopping-app" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
+  <a href="https://github.com/vishal-wahatule-git/shopping-app" target="_blank">View Repo</a> | <a href="YOUR_SHOPPING_APP_LIVE_DEMO_LINK" target="_blank">Live Demo</a>
 </a>
 
 <a href="https://github.com/vishal-wahatule-git/blog-system" target="_blank">
-  <img src="https://raw.githubusercontent.com/vishal-wahatule-git/blog-system/main/screenshots/blog-home.png" alt="Blog System" width="300" style="margin:10px; border-radius:10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="YOUR_BLOG_SYSTEM_SCREENSHOT_URL" alt="Blog System" width="300" style="margin:10px; border-radius:10px;"/>
   <br>
   <b>Blog Management System</b>  
   <br>
-  <a href="https://github.com/vishal-wahatule-git/blog-system" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
+  <a href="https://github.com/vishal-wahatule-git/blog-system" target="_blank">View Repo</a> | <a href="YOUR_BLOG_SYSTEM_LIVE_DEMO_LINK" target="_blank">Live Demo</a>
 </a>
 
 </div>
@@ -103,6 +103,6 @@
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:vishal.vahatule02@gmail.com"><img src="https://img.shields.io/badge/Email-vishal.vahatule02@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Vishal-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe&logoColor=white"/></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Vishal-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe&logoColor=white"/></a>
 </p>
