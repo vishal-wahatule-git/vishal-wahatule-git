@@ -1,6 +1,6 @@
 here# Hi there 👋, I'm Vishal Wahatule  
 
-🚀 **Backend Java Developer** | 💡 Passionate about building REST APIs & scalable systems | ☁️ Exploring Cloud & DevOps  
+🚀 **Backend Java Developer** | 💡 Passionate about building REST APIs & scalable systems | ☁️ Exploring Cloud & DevOps
 
 ---
 
