@@ -1,4 +1,4 @@
-here# Hi there 👋, I'm Vishal Wahatule  
+# Hi there 👋, I'm Vishal Wahatule  
 
 🚀 **Backend Java Developer** | 💡 Passionate about building REST APIs & scalable systems | ☁️ Exploring Cloud & DevOps
 
@@ -37,28 +37,44 @@ here# Hi there 👋, I'm Vishal Wahatule
 
 <div align="center">
 
-<a href="https://github.com/vishal-wahatule-git/quiz-app" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Quiz+App" alt="Quiz App" width="300" style="margin:10px; border-radius:10px;"/>
+<a href="https://github.com/vishal-wahatule-git/QUIZ-QUESTION-SERVICE" target="_blank">
+  <img src="https://via.placeholder.com/300x150.png?text=Quiz+Question+Service" alt="Quiz App" width="300" style="margin:10px; border-radius:10px;"/>
   <br>
-  <b>Quiz App Microservices</b>  
+  <b>Quiz Question Microservice</b>  
   <br>
-  <a href="https://github.com/vishal-wahatule-git/quiz-app" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
+  <a href="https://github.com/vishal-wahatule-git/QUIZ-QUESTION-SERVICE" target="_blank">View Repo</a>
 </a>
 
-<a href="https://github.com/vishal-wahatule-git/shopping-app" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Shopping+App" alt="Shopping App" width="300" style="margin:10px; border-radius:10px;"/>
+<a href="https://github.com/vishal-wahatule-git/AutoTrack" target="_blank">
+  <img src="https://via.placeholder.com/300x150.png?text=AutoTrack" alt="AutoTrack" width="300" style="margin:10px; border-radius:10px;"/>
   <br>
-  <b>Online Shopping App</b>  
+  <b>AutoTrack System</b>  
   <br>
-  <a href="https://github.com/vishal-wahatule-git/shopping-app" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
+  <a href="https://github.com/vishal-wahatule-git/AutoTrack" target="_blank">View Repo</a>
 </a>
 
-<a href="https://github.com/vishal-wahatule-git/blog-system" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Blog+System" alt="Blog System" width="300" style="margin:10px; border-radius:10px;"/>
+<a href="https://github.com/vishal-wahatule-git/MyFirstCrudSpringboot" target="_blank">
+  <img src="https://via.placeholder.com/300x150.png?text=CRUD+App" alt="CRUD App" width="300" style="margin:10px; border-radius:10px;"/>
   <br>
-  <b>Blog Management System</b>  
+  <b>Spring Boot CRUD App</b>  
   <br>
-  <a href="https://github.com/vishal-wahatule-git/blog-system" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
+  <a href="https://github.com/vishal-wahatule-git/MyFirstCrudSpringboot" target="_blank">View Repo</a>
+</a>
+
+<a href="https://github.com/vishal-wahatule-git/HibernateManyToManyMapping" target="_blank">
+  <img src="https://via.placeholder.com/300x150.png?text=Hibernate+Mapping" alt="Hibernate Mapping" width="300" style="margin:10px; border-radius:10px;"/>
+  <br>
+  <b>Hibernate Many-to-Many Mapping</b>  
+  <br>
+  <a href="https://github.com/vishal-wahatule-git/HibernateManyToManyMapping" target="_blank">View Repo</a>
+</a>
+
+<a href="https://github.com/vishal-wahatule-git/CoreJavaProject" target="_blank">
+  <img src="https://via.placeholder.com/300x150.png?text=Core+Java+Project" alt="Core Java Project" width="300" style="margin:10px; border-radius:10px;"/>
+  <br>
+  <b>Core Java Project</b>  
+  <br>
+  <a href="https://github.com/vishal-wahatule-git/CoreJavaProject" target="_blank">View Repo</a>
 </a>
 
 </div>
