@@ -26,16 +26,19 @@
 
 ---
 
-### 📊 Coding Progress
+### 📚 Daily Coding Progress & Cloud Skills  
 
-| Platform | Solved | Total Questions |
-|----------|--------|----------------|
-| HackerRank | ![HackerRank Badge](https://img.shields.io/badge/HackerRank-{{HACKERRANK_SOLVED}}-green) | {{HACKERRANK_TOTAL}} |
-| GeeksforGeeks | ![GFG Badge](https://img.shields.io/badge/GFG-{{GFG_SOLVED}}-orange) | {{GFG_TOTAL}} |
+<p align="center">
+  <!-- HackerRank Badge -->
+  ![HackerRank](https://img.shields.io/badge/HackerRank-{{HACKERRANK_SOLVED}}/{{HACKERRANK_TOTAL}}-green?style=for-the-badge&logo=hackerrank&logoColor=white)
+  
+  <!-- GeeksforGeeks Badge -->
+  ![GFG](https://img.shields.io/badge/GFG-{{GFG_SOLVED}}/{{GFG_TOTAL}}-orange?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+  
+  <!-- Azure Badge -->
+  ![Azure](https://img.shields.io/badge/Azure-Basics-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+</p>
 
-> These numbers can be automatically updated via a Python script and GitHub Actions workflow.
-
----
 
 ### 📊 GitHub Stats  
 <p align="center">
