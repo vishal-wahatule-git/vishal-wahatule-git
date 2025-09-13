@@ -1,124 +1,57 @@
 # Hi there 👋, I'm Vishal Wahatule  
 
-🚀 **Backend Java Developer** | 💡 Passionate about building REST APIs & scalable systems | ☁️ Exploring Cloud & DevOps
+🚀 *Backend Java Developer* | 💡 Passionate about building REST APIs & scalable systems | ☁ Exploring Cloud & DevOps  
 
 ---
 
-### 🛠️ Tech Stack & Skills  
+### 🛠 Tech Stack  
 
+*Backend :* Java, Spring Boot, Hibernate, REST APIs  
+*Frontend :* HTML, CSS, JavaScript, Bootstrap  
+*Database :* MySQL, PostgreSQL  
+*DevOps & Cloud :* Azure (Basics), Docker (Learning)  
+*API & Testing Tools :* Postman, Swagger  
+*Others :* Git, GitHub, Maven  
+
+---
+
+### 💻 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
+
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-wahatule-git&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-wahatule-git&theme=tokyonight" height="180px"/>
+</p>  
 
 ---
 
-### 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-wahatule-git&show_icons=true&theme=tokyonight&count_private=true&hide=issues"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-wahatule-git&theme=tokyonight"/>
-</p>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vishal-wahatule-git)
+### 🌱 About Me  
+- 🔭 Currently working on *Spring Boot projects*  
+- 🌍 Learning *Cloud (Azure)* & *Microservices concepts*  
+- 🧑‍💻 Open to collaborate on *Backend & API projects*  
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/)** (add your link here)  
 
 ---
 
-### 💼 Projects Showcase  
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=vishal-wahatule-git&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6)
 
-<div align="center">
+[![Vishal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-wahatule-git&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/vishal-wahatule-git/QUIZ-QUESTION-SERVICE" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Quiz+Question+Service" alt="Quiz App" width="300" style="margin:10px; border-radius:10px;"/>
-  <br>
-  <b>Quiz Question Microservice</b>  
-  <br>
-  <a href="https://github.com/vishal-wahatule-git/QUIZ-QUESTION-SERVICE" target="_blank">View Repo</a>
-</a>
 
-<a href="https://github.com/vishal-wahatule-git/AutoTrack" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=AutoTrack" alt="AutoTrack" width="300" style="margin:10px; border-radius:10px;"/>
-  <br>
-  <b>AutoTrack System</b>  
-  <br>
-  <a href="https://github.com/vishal-wahatule-git/AutoTrack" target="_blank">View Repo</a>
-</a>
-
-<a href="https://github.com/vishal-wahatule-git/MyFirstCrudSpringboot" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=CRUD+App" alt="CRUD App" width="300" style="margin:10px; border-radius:10px;"/>
-  <br>
-  <b>Spring Boot CRUD App</b>  
-  <br>
-  <a href="https://github.com/vishal-wahatule-git/MyFirstCrudSpringboot" target="_blank">View Repo</a>
-</a>
-
-<a href="https://github.com/vishal-wahatule-git/HibernateManyToManyMapping" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Hibernate+Mapping" alt="Hibernate Mapping" width="300" style="margin:10px; border-radius:10px;"/>
-  <br>
-  <b>Hibernate Many-to-Many Mapping</b>  
-  <br>
-  <a href="https://github.com/vishal-wahatule-git/HibernateManyToManyMapping" target="_blank">View Repo</a>
-</a>
-
-<a href="https://github.com/vishal-wahatule-git/CoreJavaProject" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Core+Java+Project" alt="Core Java Project" width="300" style="margin:10px; border-radius:10px;"/>
-  <br>
-  <b>Core Java Project</b>  
-  <br>
-  <a href="https://github.com/vishal-wahatule-git/CoreJavaProject" target="_blank">View Repo</a>
-</a>
-
-</div>
-
----
-
-### 📊 Skills Proficiency  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-90%25-brightgreen"/>
-  <img src="https://img.shields.io/badge/SpringBoot-85%25-brightgreen"/>
-  <img src="https://img.shields.io/badge/Hibernate-80%25-brightgreen"/>
-  <img src="https://img.shields.io/badge/MySQL-85%25-blue"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-70%25-blue"/>
-  <img src="https://img.shields.io/badge/HTML-80%25-orange"/>
-  <img src="https://img.shields.io/badge/CSS-75%25-blue"/>
-  <img src="https://img.shields.io/badge/JS-70%25-yellow"/>
-  <img src="https://img.shields.io/badge/Bootstrap-65%25-purple"/>
-  <img src="https://img.shields.io/badge/Docker-60%25-lightgrey"/>
-  <img src="https://img.shields.io/badge/Azure-50%25-lightblue"/>
-</p>
-
----
-
-### 🏆 Certifications & Achievements  
-- Oracle Certified Java Programmer (OCPJP)  
-- Spring Framework: Beginner to Advanced (Udemy)  
-- Winner, Hackathon XYZ – Backend API Development  
-
----
-
-### 🌱 Learning & Fun  
+<!--START_SECTION:waka-->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=500&lines=Backend+Java+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;API+Development+%26+Documentation;Always+Learning+New+Things!" alt="Typing SVG" />
   </a>
-</p>
-
----
-
-### 📫 Contact Me
-<p align="center">
-  <a href="mailto:vishal.vahatule02@gmail.com"><img src="https://img.shields.io/badge/Email-vishal.vahatule02@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Vishal-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe&logoColor=white"/></a>
 </p>
