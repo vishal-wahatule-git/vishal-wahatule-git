@@ -15,7 +15,7 @@
 
 ---
 
-### 💻 
+### 💻 Skills & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -23,6 +23,17 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
+
+### 📊 Coding Progress
+
+| Platform | Solved | Total Questions |
+|----------|--------|----------------|
+| HackerRank | ![HackerRank Badge](https://img.shields.io/badge/HackerRank-{{HACKERRANK_SOLVED}}-green) | {{HACKERRANK_TOTAL}} |
+| GeeksforGeeks | ![GFG Badge](https://img.shields.io/badge/GFG-{{GFG_SOLVED}}-orange) | {{GFG_TOTAL}} |
+
+> These numbers can be automatically updated via a Python script and GitHub Actions workflow.
 
 ---
 
@@ -38,7 +49,7 @@
 - 🔭 Currently working on *Spring Boot projects*  
 - 🌍 Learning *Cloud (Azure)* & *Microservices concepts*  
 - 🧑‍💻 Open to collaborate on *Backend & API projects*  
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/)** (add your link here)  
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/)**  
 
 ---
 
@@ -47,8 +58,7 @@
 
 [![Vishal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-wahatule-git&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<!--START_SECTION:waka-->
+---
 
 <p align="center">
   <a href="https://git.io/typing-svg">
