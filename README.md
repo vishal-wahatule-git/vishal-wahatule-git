@@ -33,11 +33,10 @@
 
 ---
 
-### 🏆 Certifications & Achievements  
+### 🏆 Certifications  
 
-- Oracle Certified Java Programmer (OCPJP)  
-- Spring Framework: Beginner to Advanced (Udemy)  
-- **Microsoft Azure Fundamentals** ![Azure](https://img.shields.io/badge/Azure-Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+**Azure Cloud**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="120"/>
 
 ---
 
