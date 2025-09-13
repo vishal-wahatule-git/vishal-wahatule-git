@@ -9,7 +9,7 @@
 *Backend :* Java, Spring Boot, Hibernate, REST APIs  
 *Frontend :* HTML, CSS, JavaScript, Bootstrap  
 *Database :* MySQL, PostgreSQL  
-*DevOps & Cloud :* Azure (Basics), Docker (Learning)  
+*DevOps & Cloud :* Docker (Learning)  
 *API & Testing Tools :* Postman, Swagger  
 *Others :* Git, GitHub, Maven  
 
@@ -22,24 +22,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 📚 Daily Coding Progress & Cloud Skills  
+### 📚 Daily Coding Progress  
 
-<p align="center">
-  <!-- HackerRank Badge -->
-  ![HackerRank](https://img.shields.io/badge/HackerRank-{{HACKERRANK_SOLVED}}/{{HACKERRANK_TOTAL}}-green?style=for-the-badge&logo=hackerrank&logoColor=white)
-  
-  <!-- GeeksforGeeks Badge -->
-  ![GFG](https://img.shields.io/badge/GFG-{{GFG_SOLVED}}/{{GFG_TOTAL}}-orange?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-  
-  <!-- Azure Badge -->
-  ![Azure](https://img.shields.io/badge/Azure-Basics-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-</p>
+- HackerRank Profile: [Vishal_Wahatule](https://www.hackerrank.com/Vishal_Wahatule)  
+- GeeksforGeeks Profile: [vishalwahatulegfg](https://auth.geeksforgeeks.org/user/vishalwahatulegfg)  
 
-> These numbers can be automatically updated via a Python script and GitHub Actions workflow.
+> Your coding progress can be tracked by visiting these profiles.
 
 ---
 
@@ -53,7 +45,7 @@
 
 ### 🌱 About Me  
 - 🔭 Currently working on *Spring Boot projects*  
-- 🌍 Learning *Cloud (Azure)* & *Microservices concepts*  
+- 🌍 Learning *Microservices concepts & Docker*  
 - 🧑‍💻 Open to collaborate on *Backend & API projects*  
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/)**  
 
