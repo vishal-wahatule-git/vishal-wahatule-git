@@ -39,6 +39,9 @@
   ![Azure](https://img.shields.io/badge/Azure-Basics-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 </p>
 
+> These numbers can be automatically updated via a Python script and GitHub Actions workflow.
+
+---
 
 ### 📊 GitHub Stats  
 <p align="center">
@@ -67,4 +70,4 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=500&lines=Backend+Java+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;API+Development+%26+Documentation;Always+Learning+New+Things!" alt="Typing SVG" />
   </a>
-</p>
+</p>  
