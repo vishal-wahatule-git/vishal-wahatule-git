@@ -31,7 +31,6 @@
 - HackerRank Profile: [Vishal_Wahatule](https://www.hackerrank.com/Vishal_Wahatule)  
 - GeeksforGeeks Profile: [vishalwahatulegfg](https://auth.geeksforgeeks.org/user/vishalwahatulegfg)  
 
-> Your coding progress can be tracked by visiting these profiles.
 
 ---
 
