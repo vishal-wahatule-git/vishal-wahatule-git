@@ -31,6 +31,13 @@
 - HackerRank Profile: [Vishal_Wahatule](https://www.hackerrank.com/Vishal_Wahatule)  
 - GeeksforGeeks Profile: [vishalwahatulegfg](https://auth.geeksforgeeks.org/user/vishalwahatulegfg)  
 
+---
+
+### 🏆 Certifications & Achievements  
+
+- Oracle Certified Java Programmer (OCPJP)  
+- Spring Framework: Beginner to Advanced (Udemy)  
+- **Microsoft Azure Fundamentals** ![Azure](https://img.shields.io/badge/Azure-Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
