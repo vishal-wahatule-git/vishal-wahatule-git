@@ -1,0 +1,33 @@
+name: Update Learning Progress
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Runs every day at 7 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.13
+
+      - name: Install dependencies
+        run: pip install -r learning-progress-tracker/requirements.txt
+
+      - name: Run progress updater
+        run: python learning-progress-tracker/update_progress.py
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name "vishal-wahatule-git"
+          git config user.email "vishal.vahatule02@gmail.com"
+          git add README.md
+          git commit -m "chore: update daily progress [bot]" || echo "No changes to commit"
+          git push
