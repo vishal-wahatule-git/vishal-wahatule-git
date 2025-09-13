@@ -6,50 +6,77 @@
 
 ### 🛠 Tech Stack  
 
+<!-- Backend -->
+<h3 align="left">Backend</h3>
 <p align="center">
-  <!-- Java -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="80" style="margin:10px;"/>
-  
-  <!-- Spring Boot -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring Boot" width="120" style="margin:10px;"/>
-  
-  <!-- Hibernate -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Hibernate" width="120" style="margin:10px;"/>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/><br>Java
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60"/><br>Spring Boot
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="60" height="60"/><br>Hibernate
+      </td>
+    </tr>
+  </table>
 </p>
 
+<!-- Database -->
+<h3 align="left">Database</h3>
 <p align="center">
-  <!-- MySQL -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="120" style="margin:10px;"/>
-  
-  <!-- PostgreSQL -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="80" style="margin:10px;"/>
-  
-  <!-- Docker -->
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="120" style="margin:10px;"/>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br>MySQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/><br>PostgreSQL
+      </td>
+    </tr>
+  </table>
 </p>
 
+<!-- Cloud -->
+<h3 align="left">Cloud</h3>
 <p align="center">
-  <!-- Azure -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="120" style="margin:10px;"/>
-  
-  <!-- Postman -->
-  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" width="80" style="margin:10px;"/>
-  
-  <!-- Swagger -->
-  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" width="120" style="margin:10px;"/>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60"/><br>Azure
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/><br>Docker
+      </td>
+    </tr>
+  </table>
 </p>
 
+<!-- Tools -->
+<h3 align="left">Tools</h3>
 <p align="center">
-  <!-- Git -->
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="80" style="margin:10px;"/>
-  
-  <!-- GitHub -->
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="80" style="margin:10px;"/>
-  
-  <!-- Maven -->
-  <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="Maven" width="120" style="margin:10px;"/>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/><br>GitHub
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="60" height="60"/><br>Maven
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60"/><br>Postman
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="60" height="60"/><br>Swagger
+      </td>
+    </tr>
+  </table>
 </p>
-
 
 ---
 
