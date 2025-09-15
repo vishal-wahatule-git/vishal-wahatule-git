@@ -109,7 +109,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishal-wahatule-git&show_icons=true&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-wahatule-git&theme=tokyonight" height="180px"/>
-</p>  
+</p>    
 
 ---
 
