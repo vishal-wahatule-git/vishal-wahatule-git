@@ -104,9 +104,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="120"/>
 
 ---
-
-### 🌃 My GitHub Skyline  
-[![GitHub Skyline](https://skyline.github.com/vishal-wahatule-git/2024.svg)](https://skyline.github.com/vishal-wahatule-git/2024)  
+### 🌗 My Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-wahatule-git&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishal-wahatule-git&theme=dark&hide_border=true" width="58%"/>
+</p>
 
 
 ---
@@ -118,9 +120,6 @@
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/)**  
 
 ---
-
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=vishal-wahatule-git&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6)
 
 [![Vishal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal-wahatule-git&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
