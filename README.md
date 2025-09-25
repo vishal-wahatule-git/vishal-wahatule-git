@@ -4,8 +4,6 @@
 
 ---
 
-
-
 ### 🛠 Tech Stack  
 
 <!-- Backend -->
