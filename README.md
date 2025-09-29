@@ -90,26 +90,70 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-### 📚 Daily Coding Progress  
-
-- HackerRank Profile: [Vishal_Wahatule](https://www.hackerrank.com/Vishal_Wahatule)  
-- GeeksforGeeks Profile: [vishalwahatulegfg](https://auth.geeksforgeeks.org/user/vishalwahatulegfg)  
-
----
-
 ### 🏆 Certifications  
 
 **Azure Cloud**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="120"/>
 
 ---
+### 💼 Projects Showcase  
+
+<div align="center">
+
+<a href="https://github.com/vishal-wahatule-git/QUIZ-QUESTION-SERVICE" target="_blank">
+  <img src="https://via.placeholder.com/300x150.png?text=Quiz+Question+Service" alt="Quiz App" width="300" style="margin:10px; border-radius:10px;"/>
+  <br>
+  <b>Quiz Question Microservice</b>  
+  <br>
+  <a href="https://github.com/vishal-wahatule-git/QUIZ-QUESTION-SERVICE" target="_blank">View Repo</a>
+</a>
+
+<a href="https://github.com/vishal-wahatule-git/AutoTrack" target="_blank">
+  <img src="https://via.placeholder.com/300x150.png?text=AutoTrack" alt="AutoTrack" width="300" style="margin:10px; border-radius:10px;"/>
+  <br>
+  <b>AutoTrack System</b>  
+  <br>
+  <a href="https://github.com/vishal-wahatule-git/AutoTrack" target="_blank">View Repo</a>
+</a>
+
+<a href="https://github.com/vishal-wahatule-git/MyFirstCrudSpringboot" target="_blank">
+  <img src="https://via.placeholder.com/300x150.png?text=CRUD+App" alt="CRUD App" width="300" style="margin:10px; border-radius:10px;"/>
+  <br>
+  <b>Spring Boot CRUD App</b>  
+  <br>
+  <a href="https://github.com/vishal-wahatule-git/MyFirstCrudSpringboot" target="_blank">View Repo</a>
+</a>
+
+<a href="https://github.com/vishal-wahatule-git/HibernateManyToManyMapping" target="_blank">
+  <img src="https://via.placeholder.com/300x150.png?text=Hibernate+Mapping" alt="Hibernate Mapping" width="300" style="margin:10px; border-radius:10px;"/>
+  <br>
+  <b>Hibernate Many-to-Many Mapping</b>  
+  <br>
+  <a href="https://github.com/vishal-wahatule-git/HibernateManyToManyMapping" target="_blank">View Repo</a>
+</a>
+
+<a href="https://github.com/vishal-wahatule-git/CoreJavaProject" target="_blank">
+  <img src="https://via.placeholder.com/300x150.png?text=Core+Java+Project" alt="Core Java Project" width="300" style="margin:10px; border-radius:10px;"/>
+  <br>
+  <b>Core Java Project</b>  
+  <br>
+  <a href="https://github.com/vishal-wahatule-git/CoreJavaProject" target="_blank">View Repo</a>
+</a>
+
+</div>
+
+---
+
+### 📚 Daily Coding Progress  
+
+- HackerRank Profile: [Vishal_Wahatule](https://www.hackerrank.com/Vishal_Wahatule)  
+- GeeksforGeeks Profile: [vishalwahatulegfg](https://auth.geeksforgeeks.org/user/vishalwahatulegfg)  
+---
 ### 🌗 My Contributions
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-wahatule-git&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vishal-wahatule-git&theme=dark&hide_border=true" width="58%"/>
 </p>
-
 
 ---
 
