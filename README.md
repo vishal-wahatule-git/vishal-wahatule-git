@@ -92,14 +92,27 @@
 ---
 ### 🏆 Certifications  
 
-**Azure Cloud**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="120"/>
+**Azure Cloud Fundamentals**  
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="120"/>
+  <br>
+  <b>Issued by:</b> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="15" style="vertical-align:middle; margin-right:4px;"/> Microsoft  
+  <br>
+  <b>Credential ID:</b> 17B9DD824029CE06  
+  <br>
+  <b>Certification Number:</b> 8115F4-65J430  
+  <br>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/VishalWahatule-3731/17B9DD824029CE06?sharingId=C66C8816096EF965" target="_blank">
+    🔗 Verify Certificate
+  </a>
+</p> 
 
 ---
+
 ### 💼 Projects Showcase  
 
 <div align="center">
-
 <a href="https://github.com/vishal-wahatule-git/QUIZ-QUESTION-SERVICE" target="_blank">
   <img src="https://via.placeholder.com/300x150.png?text=Quiz+Question+Service" alt="Quiz App" width="300" style="margin:10px; border-radius:10px;"/>
   <br>
