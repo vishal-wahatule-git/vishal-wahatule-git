@@ -104,7 +104,7 @@
   <b>Certification Number:</b> 8115F4-65J430  
   <br>
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/VishalWahatule-3731/17B9DD824029CE06?sharingId=C66C8816096EF965" target="_blank">
-    🔗 Verify Certificate
+    🔗 Click to View Certificate
   </a>
 </p> 
 
