@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠 Tech Stack  
+### 🛠 Tech Stack 
 
 <!-- Backend -->
 <h3 align="left">Backend</h3>
