@@ -27,6 +27,7 @@
 ### ☁ **Cloud & DevOps**
 <p>
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -49,8 +50,9 @@
 
 ---
 
-## 🏆 **Certification — Azure Fundamentals (AZ-900)**
+## 🏆 Certifications
 
+### ⭐ 1. Microsoft Certified: Azure Fundamentals (AZ-900)
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="120"/>
   <br><b>Issued by Microsoft</b><br>
@@ -63,36 +65,71 @@
 
 ---
 
+### ⭐ 2. Microsoft Certified: Azure Developer Associate (AZ-204) – NASSCOM
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="120"/>
+  <br>✔ Earned through Microsoft × NASSCOM  
+  <br>
+  <a href="https://learn.microsoft.com/en-us/users/vishalwahatule-3731/achievements/print/nmqu78mf?tab=tab-plans">
+    🔗 View Certificate
+  </a>
+</p>
+
+---
+
+### ⭐ 3. HackerRank — REST API (Intermediate)
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="120"/>
+  <br>✔ REST API (Intermediate) — HackerRank  
+  <br><b>Certificate ID:</b> 98203e32281d  
+  <br>
+  <a href="https://www.hackerrank.com/certificates/iframe/98203e32281d">
+    🔗 View Certificate
+  </a>
+</p>
+
+---
+
+### ⭐ 4. HackerRank — SQL (Advanced)
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="120"/>
+  <br>✔ SQL Advanced Certification  
+  <br><b>Certificate ID:</b> 067b5ed1ae52  
+  <br>
+  <a href="https://www.hackerrank.com/certificates/067b5ed1ae52">
+    🔗 View Certificate
+  </a>
+</p>
+
+---
+
 ## 💼 **Featured Projects**
 
 ### 🔹 **AutoTrack – Vehicle Monitoring System**  
 **Tech:** Spring Boot, JWT, Spring Security, PostgreSQL, Docker, Flyway, Swagger  
 
-🔗 Repo: **https://github.com/vishal-wahatule-git/AutoTrack**  
-📌 Microservices-based vehicle tracking, authentication, and maintenance system.
+🔗 Repo: **https://github.com/vishal-wahatule-git/AutoTrack**
 
 ---
 
 ### 🔹 **Quiz Question Microservice**  
-📌 Microservice-based quiz question generator  
 🔗 https://github.com/vishal-wahatule-git/QUIZ-QUESTION-SERVICE  
 
 ---
 
 ### 🔹 **ECommerce Backend (Spring Boot + JWT)**  
-📌 Add your repo link here  
-(*Just paste your GitHub repo URL in place of this text*)
+🔗 Add your repo link here  
 
 ---
 
 ### 🔹 **More Projects**
-- CRUD App (Spring Boot)  
+- CRUD App  
 - Hibernate Mapping Examples  
-- Core Java Mini Applications  
+- Core Java Mini Apps  
 
 ---
 
-## ⏳ **Coding Practice Profiles**
+## ⏳ **Coding Profiles**
 - HackerRank → https://www.hackerrank.com/Vishal_Wahatule  
 - GeeksForGeeks → https://auth.geeksforgeeks.org/user/vishalwahatulegfg  
 
@@ -120,14 +157,13 @@
 
 ## 🌱 **About Me**
 - Passionate about Spring Boot & Microservices  
-- Learning Cloud & DevOps  
-- Strong interest in distributed systems  
-- Open for backend development roles  
+- Cloud & DevOps learner  
+- Interested in distributed systems  
+- Open for backend developer roles  
 
 ---
 
 ## 📫 **Let’s Connect**
-👉 Add your **LinkedIn profile link here**  
+👉 **LinkedIn:** https://www.linkedin.com/in/vishal-wahatule  
 
 ---
-
