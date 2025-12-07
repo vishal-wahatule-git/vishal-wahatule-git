@@ -31,7 +31,9 @@
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-%2300A98F.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
+
 
 ### 🧰 **Tools**
 <p>
@@ -112,20 +114,10 @@
 
 ---
 
-### 🔹 **Quiz Question Microservice**  
-🔗 https://github.com/vishal-wahatule-git/QUIZ-QUESTION-SERVICE  
+### 🔹 **ECommerce Backend (Spring Security + JWT + MySQL)**  
+**Tech:** Spring Boot, JWT, Spring Security, MySQL, Hibernate, Swagger  
 
----
-
-### 🔹 **ECommerce Backend (Spring Boot + JWT)**  
-🔗 Add your repo link here  
-
----
-
-### 🔹 **More Projects**
-- CRUD App  
-- Hibernate Mapping Examples  
-- Core Java Mini Apps  
+🔗 Repo: **https://github.com/vishal-wahatule-git/ECommerce-SpringSecurity**
 
 ---
 
